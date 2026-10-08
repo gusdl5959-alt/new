@@ -1,0 +1,4 @@
+interface:
+  display_name: "팬툰오프닝 제작"
+  short_description: "웹툰 원작 확인부터 이미지·모션·음악 편집·검수·업로드 문구까지 제작"
+  default_prompt: "$webtoon-fantoon-opening 으로 이 웹툰의 팬메이드 애니메이션 오프닝을 만들어줘. 기존 자료를 활용하고 원작 디자인과 음악 박자를 유지해줘."
