@@ -1,0 +1,10 @@
+4층은 없습니다 — third-party material in this film
+
+Fonts (SIL Open Font License 1.1, via Google Fonts; subset to the characters used):
+  Nanum Gothic, Nanum Myeongjo, Nanum Gothic Coding, Nanum Pen Script — Sandoll Communication / NAVER
+  https://fonts.google.com/specimen/Nanum+Gothic (and the other three families)
+
+Music: none. The PA chime plays the Westminster Quarters (public domain melody, 1793), synthesised in code.
+Sound: every sound is synthesised procedurally (numpy/scipy); no samples or recordings.
+Picture: everything drawn in code (three.js r170, MIT); no images, footage or generated video.
+Engine techniques adapted from the Lemo-Opuscar library's Liminal Found Footage demo (MIT): VHS shader, OSD font, lighting model, shoe rig.
